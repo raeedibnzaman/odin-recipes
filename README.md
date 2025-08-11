@@ -1,1 +1,1 @@
-This is my first project on The Odin Project
+Odin Project recipes project
