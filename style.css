@@ -1,0 +1,26 @@
+.headline {
+    color: gray;
+    text-align: center;
+}
+
+a {
+    color: #539046;
+}
+
+* {
+    background-color: aliceblue;
+    font-family: Tahoma, sans-serif;
+}
+
+.ingredients, ul {
+    color: forestgreen;
+}
+
+.directions, ol {
+    color: #cd7d52;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+}
