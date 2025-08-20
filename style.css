@@ -28,4 +28,5 @@ a {
     margin: auto;
     display: flex;
     justify-content: center;
+    align-content: center;
 }
