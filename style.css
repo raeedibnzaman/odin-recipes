@@ -12,6 +12,10 @@ a {
     font-family: Tahoma, sans-serif;
 }
 
+.description {
+    color: darkblue;
+}
+
 .ingredients, ul {
     color: forestgreen;
 }
@@ -20,7 +24,8 @@ a {
     color: #cd7d52;
 }
 
-img {
+.image {
+    margin: auto;
     display: flex;
     justify-content: center;
 }
