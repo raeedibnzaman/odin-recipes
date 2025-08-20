@@ -12,6 +12,15 @@ a {
     font-family: Tahoma, sans-serif;
 }
 
+.description, .ingredients, .directions, a{
+    padding: 0 10%;
+}
+
+ul, ol {
+    padding: 0 12%;
+}
+
+
 .description {
     color: darkblue;
 }
